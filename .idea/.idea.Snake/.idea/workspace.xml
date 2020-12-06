@@ -20,38 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb67b2df-af74-47f6-a310-1fce487e0e53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Snake/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Food.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Food.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Snake.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Snake.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Tail.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/Tail.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Food.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Food.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Snake.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Snake.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tail.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Tail.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectGeneration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ObjectGeneration.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SnakeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SnakeController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TailController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TailController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Nicrom/PolyPacks/Wind/_Prefabs/LPW_Rock_Boulder_A1_01.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Nicrom/PolyPacks/Wind/_Prefabs/LPW_Rock_Boulder_A1_01.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Snake/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Snake.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Snake.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +37,7 @@
     <setting file="file://$PROJECT_DIR$/../../OldProjects/Snake/Assets/Scripts/SnakeMovment.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TailController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectGeneration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CanvasButtons.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../OldProjects/Snake/Assets/Scripts/TailMovment.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -73,6 +46,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SnakeController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TailController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CanvasButtons.cs" />
       </list>
     </option>
   </component>
@@ -115,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607269204770</updated>
-      <workItem from="1607269221554" duration="2833000" />
+      <workItem from="1607269221554" duration="3886000" />
     </task>
     <servers />
   </component>

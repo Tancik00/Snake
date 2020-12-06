@@ -29,6 +29,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="CanvasButtons.cs" t="Include" />
           <e p="ObjectGeneration.cs" t="Include" />
           <e p="SnakeController.cs" t="Include" />
           <e p="TailController.cs" t="Include" />
